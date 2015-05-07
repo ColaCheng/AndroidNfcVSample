@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NFCSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_detected">TAG NOT DETECTED. WHERE DO YOU WANT WRITE!?!?</string>
+    <string name="ok_writing">I HAVE WRITTEN YOUR TAG!!</string>
+    <string name="error_reading">ERROR DURING READING!!</string>
+    <string name="error_writing">ERROR DURING WRITING. ARE YOU SURE THAT YOUR TAG IS CLOSE TO YOUR MOBILE PHONE?</string>
+    <string name="ok_detection">TAG DETECTED! </string>
+    <string name="no_detection">TAG NO DETECTED! </string>
+    <string name="not_null">VALUE NOT NULL! </string>
+    <string name="check_data">CHECK DATA! </string>
+</resources>
